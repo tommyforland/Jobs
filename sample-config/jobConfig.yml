@@ -505,10 +505,10 @@ Jobs:
         income: 10.0
         experience: 10.0
   None:
-    fullname: None
-    shortname: N
-    ChatColour: WHITE
-    chat-display: none
+    fullname: Guard
+    shortname: G
+    ChatColour: DARK_GREEN
+    chat-display: full
     #max-level: 10
     #slots: 10
     leveling-progression-equation: 100*((1.13+(0.01*(numjobs-1)))^(joblevel-1))
